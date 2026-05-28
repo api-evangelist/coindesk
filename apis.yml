@@ -1,0 +1,32 @@
+aid: coindesk
+name: CoinDesk
+description: "CoinDesk's Bitcoin Price Index (BPI) in multiple currencies"
+url: https://old.coindesk.com/coindesk-api/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cryptocurrency"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cryptocurrency
+  - Public APIs
+apis:
+  - name: CoinDesk
+    description: "CoinDesk's Bitcoin Price Index (BPI) in multiple currencies"
+    humanURL: https://old.coindesk.com/coindesk-api/
+    baseURL: https://old.coindesk.com/coindesk-api/
+    tags:
+      - Cryptocurrency
+    properties:
+      - type: Documentation
+        url: https://old.coindesk.com/coindesk-api/
+common:
+  - type: Website
+    url: https://old.coindesk.com/coindesk-api/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
