@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://old.coindesk.com/coindesk-api/
 common:
+  - type: DomainSecurity
+    url: security/coindesk-domain-security.yml
   - type: Website
     url: https://old.coindesk.com/coindesk-api/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.coindesk.com/arc/outboundfeeds/rss/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
