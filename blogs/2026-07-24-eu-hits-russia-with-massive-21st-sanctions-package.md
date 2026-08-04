@@ -1,0 +1,8 @@
+---
+title: "EU hits Russia with massive 21st sanctions package targeting $120B crypto network"
+url: "https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network"
+date: "2026-07-24"
+author: "Olivier Acuna"
+feed_url: "https://www.coindesk.com/arc/outboundfeeds/rss/"
+---
+The EU is considering a ban on third-country crypto services providers for the first time and is targeting 14 crypto companies, which it has not named yet.
