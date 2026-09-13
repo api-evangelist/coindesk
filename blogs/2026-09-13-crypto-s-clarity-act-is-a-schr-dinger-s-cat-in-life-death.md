@@ -1,0 +1,8 @@
+---
+title: "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns"
+url: "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns"
+date: "2026-09-13"
+author: "Jesse Hamilton"
+feed_url: "https://www.coindesk.com/arc/outboundfeeds/rss/"
+---
+The crypto industry eagerly awaits a September 15 vote, though it might not happen. Or maybe it will. Or it might get delayed or reappear in some other form.
