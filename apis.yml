@@ -39,7 +39,6 @@ apis:
   - name: CoinDesk
     description: "CoinDesk's Bitcoin Price Index (BPI) in multiple currencies"
     humanURL: https://old.coindesk.com/coindesk-api/
-    baseURL: https://old.coindesk.com/coindesk-api/
     tags:
       - Cryptocurrency
     properties:
